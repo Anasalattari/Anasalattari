@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anas Khan </h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
-<img align="right" alt="Coding" width="320" src="https://www.google.com/imgres?h=1050&w=1400&tbnh=194&tbnw=259&osm=1&hcb=1&usg=AI4_-kRzROtOhwcvM2iXXfEV2kqac45hXg&imgurl=https://miro.medium.com/v2/resize:fit:1400/1*6X5M-VHXjmy3-RD2uU9aEA.jpeg&imgrefurl=https://blog.bitsrc.io/angular-facade-design-pattern-and-how-it-can-improve-performance-65bc2aabdb26&tbnid=7fL4DuOaRh-weM&docid=dkqc9BZrH__jKM">
+<img align="right" alt="Coding" width="320" src="[https://www.google.com/imgres?h=1050&w=1400&tbnh=194&tbnw=259&osm=1&hcb=1&usg=AI4_-kRzROtOhwcvM2iXXfEV2kqac45hXg&imgurl=https://miro.medium.com/v2/resize:fit:1400/1*6X5M-VHXjmy3-RD2uU9aEA.jpeg&imgrefurl=https://blog.bitsrc.io/angular-facade-design-pattern-and-how-it-can-improve-performance-65bc2aabdb26&tbnid=7fL4DuOaRh-weM&docid=dkqc9BZrH__jKM](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fanahitayahya%2Fweb-developer-profile%2F&psig=AOvVaw3pDgiB9VwhU0jFWV24JIpA&ust=1716712645685000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCLj4_JCzqIYDFQAAAAAdAAAAABAE)">
 
 - 🌱 I’m currently learning *MERN Stack Development*
 
