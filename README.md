@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anas Khan </h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
-<img align="right" alt="Coding" width="320" src="https://www.google.com/imgres?q=simple%20coding%20background&imgurl=https%3A%2F%2Fwww.crushpixel.com%2Fstatic19%2Fpreview2%2Fstock-photo-coding-neon-iconprogramming-elements-of-browser-set-simple-icon-for-websites-web-design-mobile-app-info-graphics-isolated-on-brick-wall-3165707.jpg&imgrefurl=https%3A%2F%2Fwww.crushpixel.com%2Fstock-vector%2Fcoding-neon-iconprogramming-elements-browser-3165707.html&docid=Xmln06iBadL56M&tbnid=pC3X1IqANpLO6M&vet=12ahUKEwidw7vbs6iGAxULgFYBHcHwBt04HhAzegQIBhAA..i&w=500&h=400&hcb=2&itg=1&ved=2ahUKEwidw7vbs6iGAxULgFYBHcHwBt04HhAzegQIBhAA">
+<img align="right" alt="Coding" width="320" src="https://analyticsindiamag.com/wp-content/uploads/2018/12/developer-dribbble.gif">
 
 - 🌱 I’m currently learning *MERN Stack Development*
 
