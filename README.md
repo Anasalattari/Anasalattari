@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anas Khan </h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
-<img align="right" alt="Coding" width="320" src="https://analyticsindiamag.com/wp-content/uploads/2018/12/developer-dribbble.gif">
+<img align="right" alt="Coding" width="320" src="https://wallpaper.forfun.com/fetch/e9/e994ac8bac5d87675f6b54cdabb8a45b.jpeg?h=900&r=0.5">
 
 - 🌱 I’m currently learning *MERN Stack Development*
 
